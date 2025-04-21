@@ -1,6 +1,10 @@
 # WordWise - Word Guessing Game
 
-**WordWise** is a word guessing game where users guess an English word based on its Turkish meaning. The app is built using Flutter for the frontend and Slim Framework for the backend API.
+**WordWise** is a full-stack word guessing game application where users guess an English word based on its Turkish meaning. As a full-stack developer, I built both the frontend and the backend of this project. The frontend is developed using Flutter, providing a seamless cross-platform mobile experience. It allows users to start new games, make guesses, view their game history, and track statistics.
+
+The backend is developed using Slim Framework and PHP, which handles user authentication, game management, and data storage in a MySQL database. The API is structured with JWT for secure user authentication and includes various endpoints to manage user accounts, start games, make guesses, and track game progress.
+
+
 
 ## Project Structure
 
